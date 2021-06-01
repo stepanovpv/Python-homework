@@ -15,6 +15,7 @@ class Road:
     def calculate(self, depth: int = 1, mass: int = 25):
         return int(round(self._length * self._width * mass * depth) / 1000)
 
+
 road = Road(20, 5000)
 calculation = road.calculate(5)
 

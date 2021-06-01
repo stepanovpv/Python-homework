@@ -66,6 +66,3 @@ print('\n' + work.go(), work.show_speed(), work.turn('направо'), work.sto
 
 police = PoliceCar('УАЗ', 100, 'Бело-синий', True)
 print('\n' + police.go(), police.show_speed(), police.turn('направо'), police.stop())
-
-
-

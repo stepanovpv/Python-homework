@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11890313-0e30-4302-9f32-d30290d2c7ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Python-homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-homework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06.ООП/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/06.ООП/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06.ООП/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/06.ООП/02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06.ООП/04.py" beforeDir="false" afterPath="$PROJECT_DIR$/06.ООП/04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +50,7 @@
       <recent name="D:\Яндекс диск\Обмен Паша Ира\Документы\Паша\Обучение\GeekBrains\Курсы\2 четверть\Основы Python\Учебные примеры\05.Работа с файлами\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04">
+  <component name="RunManager" selected="Python.03">
     <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.ООП" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.ООП. Продвинутый уровень" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.ООП/01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.ООП. Продвинутый уровень/01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.ООП" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.ООП. Продвинутый уровень" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.ООП/02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.ООП. Продвинутый уровень/02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.ООП" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.ООП. Продвинутый уровень" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.ООП/03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.ООП. Продвинутый уровень/03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.ООП" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.ООП. Продвинутый уровень" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.ООП/04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.ООП. Продвинутый уровень/04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Пример ДЗ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Пример ДЗ/lesson06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Пример ДЗ/lesson07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Пример ДЗ/lesson06/task04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Пример ДЗ/lesson07/task03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,19 +157,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.01" />
       <item itemvalue="Python.02" />
+      <item itemvalue="Python.task03" />
       <item itemvalue="Python.03" />
-      <item itemvalue="Python.task04" />
       <item itemvalue="Python.04" />
+      <item itemvalue="Python.01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04" />
-        <item itemvalue="Python.task04" />
-        <item itemvalue="Python.01" />
-        <item itemvalue="Python.02" />
         <item itemvalue="Python.03" />
+        <item itemvalue="Python.02" />
+        <item itemvalue="Python.01" />
+        <item itemvalue="Python.04" />
+        <item itemvalue="Python.task03" />
       </list>
     </recent_temporary>
   </component>
